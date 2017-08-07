@@ -293,9 +293,9 @@ weex-template-compiler@^2.4.2-weex.1:
   dependencies:
     he "^1.1.0"
 
-weex-vue-loader@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/weex-vue-loader/-/weex-vue-loader-0.3.0.tgz#50d2894fbf6317381e7c376a65a8c5b603ad71f3"
+weex-vue-loader@0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/weex-vue-loader/-/weex-vue-loader-0.4.0.tgz#8340dd342601c61258b672f8f7be6b45a85763c6"
   dependencies:
     consolidate "^0.14.0"
     hash-sum "^1.0.2"

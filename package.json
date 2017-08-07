@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "weex-vue-loader": "0.3.0"
+    "weex-vue-loader": "0.4.0"
   }
 }
